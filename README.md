@@ -15,6 +15,7 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
      ```
      $ git clone https://github.com/Blockchain-Bites/kick-off-bbites-curso-especializacion-03
      $ cd kick-off-bbites-curso-especializacion-03
+     $ npm install
      ```
 
 2. Instalar Metamask
@@ -26,7 +27,7 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
 
    1. Dirigirte a [Mumbai Polygon Scan](https://mumbai.polygonscan.com/)
 
-   2. Hacia el final de la página buscar el botón `Add Mumbai Network`
+   2. Hacia el final de la página lado izquierdo buscar el botón `Add Polygon Mumbai Network`
 
    3. Se abrirará una ventana de Metamask. Dar confirmar y continuar hasta que se efectúe el cambio de red
 
@@ -35,7 +36,7 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
 4. Obtén tokens de prueba
 
    1. Enviar `Matic` a la billetera creada usando el `address` de la billetera.
-   2. Para solicitar `Matic`, ingresar a [Polygon Faucet](https://faucet.polygon.technology/) o [Faucet de Alchemy](https://mumbaifaucet.com/). Recibirás un balance en `Matic`
+   2. Para solicitar `Matic`, ingresar a [Polygon Faucet](https://faucet.polygon.technology/) o [Faucet de Alchemy](https://mumbaifaucet.com/). Recibirás un balance en `Matic` que necesitarás para realizar transacciones
 
 5. Crear archivo de Secrets `.env` duplicando el archivo `.env-copy`
 
